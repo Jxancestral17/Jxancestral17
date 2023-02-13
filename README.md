@@ -4,15 +4,23 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/mThWdsGUAqZkVtA3oG/giphy.gif">
+<div align="center">
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **0x61 0x62 0x6F 0x75 0x74 0x20 0x6D 0x65**
+	<img src="https://media.giphy.com/media/mThWdsGUAqZkVtA3oG/giphy.gif">
+</div>
+
+<br>
+
+##  **0x61 0x62 0x6F 0x75 0x74 0x20 0x6D 0x65**
 
 <br>
 
 - I study Network Developer in GOLang
 - OSINT & HUMINT
 - Now I'm studying at Leonardo's Cyber & Security Academy 
+
+<br>
+<br>
 
 <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Leonardo.svg/508px-Logo_Leonardo.svg.png">
 <p>
