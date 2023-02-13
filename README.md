@@ -11,8 +11,12 @@
 
 - I study Network Developer in GOLang
 - OSINT & HUMINT
-- Now I'm studying at Leonardo's Cyber & Security Academy <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Leonardo.svg/508px-Logo_Leonardo.svg.png">
+- Now I'm studying at Leonardo's Cyber & Security Academy 
 
+<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Leonardo.svg/508px-Logo_Leonardo.svg.png">
+<p>
+	Selected at the first edition of their Cyber & Security course
+</p>
 
 <br><br>
 
@@ -41,19 +45,6 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jxancestral17&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-
-
-<br>
 
 
 
