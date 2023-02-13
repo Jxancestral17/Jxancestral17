@@ -4,10 +4,9 @@
 
 <br>
 
-<div align="center">
 	
 	<img src="https://media.giphy.com/media/mThWdsGUAqZkVtA3oG/giphy.gif">
-</div>
+
 
 <br>
 
