@@ -3,12 +3,12 @@
 
 
 <br>
-
 	
-	<img src="https://media.giphy.com/media/mThWdsGUAqZkVtA3oG/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/mThWdsGUAqZkVtA3oG/giphy.gif">
 
 
 <br>
+
 
 ##  **0x61 0x62 0x6F 0x75 0x74 0x20 0x6D 0x65**
 
