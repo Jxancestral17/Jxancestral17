@@ -14,7 +14,7 @@
 
 <br>
 
-- I study Network Developer in GOLang
+- I study Network Developer in GO
 - OSINT & HUMINT
 - Now I'm studying at Leonardo's Cyber & Security Academy 
 
@@ -38,7 +38,7 @@
 
     
     - Python
-    - GOLang
+    - GO
     - Javascript 
     - NodeJs
     - ExpressJs
