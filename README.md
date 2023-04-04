@@ -27,8 +27,7 @@
 </p>
 
 
-<p><a href="https://www.youtube.com/@jank3xr3/">Youtube</a></p>
-<br><br>
+
 
 
 
