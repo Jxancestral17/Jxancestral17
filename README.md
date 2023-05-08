@@ -16,15 +16,10 @@
 
 - I study Network Developer in GO
 - OSINT & HUMINT
-- Now I'm studying at Leonardo's Cyber & Security Academy 
+
 
 <br>
 <br>
-
-<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Leonardo.svg/508px-Logo_Leonardo.svg.png">
-<p>
-	Selected at the first edition of their Cyber & Security course
-</p>
 
 
 
