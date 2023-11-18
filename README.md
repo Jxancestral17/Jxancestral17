@@ -16,7 +16,7 @@
 
 - I study Network Developer in GO
 - OSINT & HUMINT
-- Hacktivis
+- Hacktivism
 - Etichal Hacker
 - I studied cybersecurity in a company in the military field
   
