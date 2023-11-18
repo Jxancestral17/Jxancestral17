@@ -10,11 +10,12 @@
 <br>
 
 
+
 ##  **0x61 0x62 0x6F 0x75 0x74 0x20 0x6D 0x65**
 
 <br>
 
-- I study Network Developer in GO
+- Dev
 - OSINT & HUMINT
 - Hacktivism
 - Etichal Hacker
@@ -23,32 +24,9 @@
 
 
 <br>
-<br>
 
-
-
-
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Dev</b>
-<br>
-
-<p align="center">
-
-
-    
-    - Python
-    - GO
-    - Javascript 
-    - NodeJs
-    - ExpressJs
-    - Php
-    - Laravel
-    
-
-</p>
-
-<br>
+🇷🇺 Only 4 Ru
+<p>Если вы сотрудник ФСБ или мишка, свяжитесь со мной.</p>
 
 -----
 
